@@ -449,6 +449,7 @@ var cnames_active = {
   "cleanblog": "cleanblog.github.io",
   "clearlyelevated": "clearlyelevated.github.io",
   "clevercord": "theanidox.github.io/Clevercord",
+  "cli": "jinzhan.github.io/cli",
   "clock": "mirmousaviii.github.io/clock",
   "clockwork": "clockworkdev.github.io/ClockworkWebsite",
   "clusterize": "nexts.github.io/Clusterize.js",
